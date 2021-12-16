@@ -22,12 +22,16 @@
 ## Deleting Data
 ###### There will be a clear button, which will clear the data shown on the page and the Victors Array.
 
-## The Superheroes and Suprevillains
+## The Superheroes and Supervillains
 ###### They come from the DC Comics Universe, Star Wars, United States History, NBA, WWE, AEW, and Spider Man.
 
 ## The Defeat Methods
 ###### The defeat methods will be a combination of what is used in superhero television shows and movies, Star Wars, professional wrestling, and NBA.
 
-## The Arrays
-###### Predetermined (permanent): Superhero Array, Supervillain Array, and Neutral Characters Array
-###### Constantly Changing: The Victors Array
+## The Databases
+###### Superhero Database, Supervillain Database, and Neutral Characters Database
+
+## Winners stored in a Victors Array.
+
+## Buttons
+###### They will use React Components.
