@@ -8,7 +8,7 @@ const logger = require('morgan');
 const PORT = process.env.PORT || 3001;
 
 const app = express();
-app.use(bodyParser.json());
+app.use(bodyParser.json()); //Adding this comment because this may be what is unneeded.
 app.use(logger('dev'))
 // app.use() middleware here ^ ///////////////////
 
